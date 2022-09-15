@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vscode
+/Receiver/.vs/Receiver
+/Receiver/Receiver/obj
+/Receiver/ReceiverTest/bin/Debug/netcoreapp3.1
+/Receiver/ReceiverTest/obj
+/Receiver/Receiver/bin/Debug/netcoreapp3.1
+/Receiver/TestResults
